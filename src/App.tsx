@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          commit test
+          commit test2
         </a>
       </header>
     </div>
